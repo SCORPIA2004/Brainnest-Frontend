@@ -1,0 +1,19 @@
+body
+{
+    background-color:#212529;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+h1
+{
+    font-weight: lighter;
+}
+a
+{
+    color: rgb(251, 227, 196);
+}
+img
+{
+    border: 7.5px solid rgba(128, 255, 0, 0.704);
+    border-radius: 10%;
+}

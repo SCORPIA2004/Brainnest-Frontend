@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+    background: #1F2937;
+    color:aliceblue;
+}
+
+button{width: 23px; margin: 0.1rem;}
+button#bEquals{width: 121px ;}
+p#subDisplay{font-size: 7px; color: rgba(240, 248, 255, 0.499);}
